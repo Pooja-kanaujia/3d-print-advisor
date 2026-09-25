@@ -1,0 +1,6 @@
+{
+  "name": "PrintWise — AI 3D Printing Advisor",
+  "description": "Intelligent 3D printing advisor combining computational geometry analysis with multimodal AI vision to recommend optimal print orientation, technology, materials, and slicer settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
